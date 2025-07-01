@@ -1,2 +1,33 @@
 # microservices-architecture
 Microservices Architecture
+
+- [Microservices](microservices.md)
+- [Monolith Vs Microservices](./monolith-vs-microservices.md)
+- [Microservices: Design Principles](./microservices-design-principles.md)
+- Microservices: Design Patterns
+    - Decomposition Pattern
+        1. [Domain and Sub-Domain Pattern](./domain-and-sub-domain.md)
+        2. [Strangler Pattern](./strangler-pattern.md)
+        3. Sidecar/Sidekick Pattern
+        4. Service Mesh Pattern
+    - Database Patterns
+        1. Shared Database
+        2. Database Per Service
+        3. CQRS
+        4. SAGA
+        5. Event Sourcing
+    - Communication Patterns
+        1. Synchronous
+        2. Asynchronous
+        3. Communication medium
+    - Integration Patterns
+        1. API Gateway
+        2. Aggregator Pattern
+    - Deployment Patterns
+        1. Blue-Green
+        2. Canary
+    - Observability
+    - Cross Cutting Concerns Patterns
+        1. Service Discovery Pattern
+        2. Circuit Breaker Pattern
+
