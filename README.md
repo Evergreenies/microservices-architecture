@@ -13,7 +13,7 @@ Microservices Architecture
     - Database Patterns
         1. [Shared Database](./shared-database.md)
         2. [Database Per Service](./database-per-service.md)
-        3. CQRS
+        3. [CQRS](./cqrs.md)
         4. SAGA
         5. Event Sourcing
     - Communication Patterns
