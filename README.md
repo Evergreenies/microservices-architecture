@@ -15,7 +15,7 @@ Microservices Architecture
         2. [Database Per Service](./database-per-service.md)
         3. [CQRS](./cqrs.md)
         4. [SAGA](./saga.md)
-        5. Event Sourcing
+        5. [Event Sourcing](./event-sourcing.md)
     - Communication Patterns
         1. Synchronous
         2. Asynchronous
