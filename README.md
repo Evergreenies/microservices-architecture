@@ -16,18 +16,21 @@ Microservices Architecture
         3. [CQRS](./cqrs.md)
         4. [SAGA](./saga.md)
         5. [Event Sourcing](./event-sourcing.md)
+        6. [2-Phase Commit](./2-phase-commit.md)
     - Communication Patterns
-        1. Synchronous
-        2. Asynchronous
-        3. Communication medium
+        1. [Synchronous](./synchronous.md)
+        2. [Asynchronous](./asynchronous.md)
     - Integration Patterns
-        1. API Gateway
-        2. Aggregator Pattern
+        1. [API Gateway](./api-gateway.md)
+        2. [Aggregator Pattern](./aggregator-pattern.md)
     - Deployment Patterns
-        1. Blue-Green
-        2. Canary
+        1. [Blue-Green](./blue-green-deployment.md)
+        2. [Canary](./canary-deployment.md)
     - Observability
+        1. [Logging](./logging.md)
+        2. [Metrics](./metrics.md)
     - Cross Cutting Concerns Patterns
-        1. Service Discovery Pattern
-        2. Circuit Breaker Pattern
+        1. [Centralized Configurations](./centralized-configurations.md)
+        2. [Service Discovery Pattern](./service-discovery.md)
+        3. [Circuit Breaker Pattern](./circuit-breaker.md)
 
